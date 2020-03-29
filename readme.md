@@ -5,25 +5,28 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Datasets](#datasets)
+- [Kaggle competitions](#competitions)
 
 
-## Section
+## Datasets
 
-About this section. Optional. Keep this short and focus on the list.
+Here you can find list of datasets that are ready to be used as input
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [COVID-19 Open Research Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+- [CoronaWhy datasets](https://www.kaggle.com/skylord/coronawhy)
 
 
-## Another Section
+## Competitions
 
-### Subsection
+<!-- ### Subsection -->
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks)
 
+- [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2)
+
+### Past Competitions
+- [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 
 ## Contribute
 
