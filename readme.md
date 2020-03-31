@@ -16,7 +16,9 @@ Here you can find list of datasets that are ready to be used as input
 
 - [COVID-19 Open Research Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
-- [CoronaWhy datasets](https://www.kaggle.com/skylord/coronawhy) [A walkthrough](https://docs.google.com/document/d/1jsa4OzdgsHhVaCXGnQdIkFE53AdDzwETe2Z37ggDE1Y/edit#)
+- [CoronaWhy datasets](https://www.kaggle.com/skylord/coronawhy) - [walkthrough](https://docs.google.com/document/d/1jsa4OzdgsHhVaCXGnQdIkFE53AdDzwETe2Z37ggDE1Y/edit#)
+
+- [Spreadsheet of datasets](https://docs.google.com/spreadsheets/d/13vO8jZ4mrYD1U86U8r1qolY2HV552D7e5Fmko3c6Vrg/)
 
 ## Repositories 
 
