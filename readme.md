@@ -8,6 +8,7 @@
 - [Datasets](#datasets)
 - [Repositories](#repositories)
 - [Kaggle competitions](#competitions)
+- [Other external sources](#other)
 
 ## Datasets
 
@@ -41,6 +42,11 @@ Here you can find list of datasets that are ready to be used as input
     ### Past Competitions
     - [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
     - [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
+
+## Other
+
+- [airtable by community@neu.is](https://airtable.com/shrPm5L5I76Djdu9B/tbl6pY6HtSZvSE6rJ/viwbIjyehBIoKYYt1?blocks=bipjdZOhKwkQnH1tV) that contains lots and lots of Solutions and Initiatives for COVID-19
+
 
 ## Contribute
 
