@@ -24,11 +24,10 @@ Here you can find list of datasets that are ready to be used as input
 - [CORD-19-QA](https://github.com/CoronaWhy/CORD-19-QA) Neural multi-doc question answering on the CORD-19 dataset
 
     ### task related 
-    - [task-vt](https://github.com/CoronaWhy/task-vt) "What do we know about vaccines and therapeutics?"
-    - [task-geo](https://github.com/CoronaWhy/task-geo) "Help us understand how geography affects virality."
-    - [task-risks](https://github.com/CoronaWhy/task-risks) "What do we know about COVID-19 risk factors?"
-    - [task-ties](https://github.com/CoronaWhy/task-ties) "What is known about transmission, incubation, and environmental stability?"
-
+    - [task-vt](https://github.com/CoronaWhy/task-vt) "What do we know about vaccines and therapeutics?" - [trello](https://trello.com/b/iHrEiwZh), [wiki](https://github.com/CoronaWhy/task-vt/wiki)
+    - [task-geo](https://github.com/CoronaWhy/task-geo) "Help us understand how geography affects virality." - [trello](https://trello.com/b/e4BDCjqj)
+    - [task-risks](https://github.com/CoronaWhy/task-risks) "What do we know about COVID-19 risk factors?" - [trello](https://trello.com/b/3ObaWsDL)
+    - [task-ties](https://github.com/CoronaWhy/task-ties) "What is known about transmission, incubation, and environmental stability?" - [trello](https://trello.com/b/5LUjJJ4q)
 
 
 ## Competitions
