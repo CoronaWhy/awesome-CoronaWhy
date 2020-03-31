@@ -47,7 +47,7 @@ Here you can find list of datasets that are ready to be used as input
 ## Other
 
 - [airtable by community@neu.is](https://airtable.com/shrPm5L5I76Djdu9B/tbl6pY6HtSZvSE6rJ/viwbIjyehBIoKYYt1?blocks=bipjdZOhKwkQnH1tV) that contains lots and lots of Solutions and Initiatives for COVID-19
-
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 
 ## Contribute
 
