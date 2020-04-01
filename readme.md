@@ -19,7 +19,7 @@ Here you can find list of datasets that are ready to be used as input
 
 - [CoronaWhy datasets](https://www.kaggle.com/skylord/coronawhy) - Kaggle dataset repo for all the produced datasets [walkthrough](https://docs.google.com/document/d/1jsa4OzdgsHhVaCXGnQdIkFE53AdDzwETe2Z37ggDE1Y/edit#).
 
-- [Kaggle storage client](https://github.com/smartcaveman/kaggle-storage-client) - Simple to use client to connect to Kaggale dataset backend written in Python.
+    - [Kaggle storage client](https://github.com/smartcaveman/kaggle-storage-client) - Simple to use client to connect to Kaggale dataset backend written in Python.
 
 - [Spreadsheet of datasets](https://docs.google.com/spreadsheets/d/13vO8jZ4mrYD1U86U8r1qolY2HV552D7e5Fmko3c6Vrg/) - external datasets used by CoronaWhy community.
 
