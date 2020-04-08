@@ -2,7 +2,7 @@
 
 > A curated list of COVID-19 resources that CoronaWhy community is using
 
-[Aesomelist manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+[Awesomelist manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
 ## Contents
 
