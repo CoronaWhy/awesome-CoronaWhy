@@ -15,6 +15,8 @@
 
 Here you can find list of datasets that are ready to be used as input
 
+- [CoronaWhy Dataverse](https://datasets.coronawhy.org) - the [Dataverse](https://dataverse.org) instance where we store all of our datasets
+
 - [COVID-19 Open Research Dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) - the main dataset for [COVID-19 kaggle competition](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks).
 
 - [CoronaWhy datasets](https://www.kaggle.com/skylord/coronawhy) - Kaggle dataset repo for all the produced datasets [walkthrough](https://docs.google.com/document/d/1jsa4OzdgsHhVaCXGnQdIkFE53AdDzwETe2Z37ggDE1Y/edit#).
