@@ -6,10 +6,15 @@
 
 ## Contents
 
+- [Services](#services)
 - [Datasets](#datasets)
 - [Repositories](#repositories)
 - [Kaggle competitions](#competitions)
 - [Other external sources](#other)
+
+## Services
+
+- [CoronaWhy Cloud Infrastrucure](https://github.com/CoronaWhy/covid-19-infrastructure) - Overview of cloud services that CoronaWhy launched 
 
 ## Datasets
 
