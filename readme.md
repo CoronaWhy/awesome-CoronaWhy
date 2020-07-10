@@ -9,6 +9,7 @@
 - [Services](#services)
 - [Datasets](#datasets)
 - [Repositories](#repositories)
+- [Publications](#publications)
 - [Kaggle competitions](#competitions)
 - [Other external sources](#other)
 
@@ -41,16 +42,29 @@ Here you can find list of datasets that are ready to be used as input
     - [task-risks](https://github.com/CoronaWhy/task-risks) - "What do we know about COVID-19 risk factors?" [trello](https://trello.com/b/3ObaWsDL).
     - [task-ties](https://github.com/CoronaWhy/task-ties) - "What is known about transmission, incubation, and environmental stability?" [trello](https://trello.com/b/5LUjJJ4q).
 
+## Publications
+
+[I’m an AI researcher and here’s how I fight corona](https://medium.com/@arturkiulian/im-an-ai-researcher-and-here-s-how-i-fight-corona-1e0aa8f3e714) by Artur Kiulian
+
+
+[Exploration of Document Clustering with SPECTER Embeddings](https://medium.com/@beychaner/exploration-of-document-clustering-with-specter-embeddings-7d255f0f7392) by Brandon Eychaner
+
+[COVID-19 Research Papers Geolocation](https://medium.com/swlh/covid-19-research-papers-geolocation-c2d090bf9e06) by Ishan Sharma
+
+[Sweeping Towards Better Coronavirus Forecasting](https://towardsdatascience.com/sweeping-towards-better-coronavirus-forecasting-cce3b5d9a6f9) by Isaac Godfried
+
+[Transferring Knowledge on Time Series with the Transformer](https://app.wandb.ai/covid/covid_forecast/reports/Transferring-Knowledge-on-Time-Series-with-the-Transformer--VmlldzoxNDEzOTk) by Isaac Godfried
 
 ## Competitions
 
 <!-- ### Subsection -->
 
-- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks) - Main Kaggle competition that CoronaWhy community is addressing.
-
-- [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2) - Kaggle competition with a well defined ML task.
 
     ### Past Competitions
+
+    - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks) - Main Kaggle competition that CoronaWhy community is addressing.
+
+    - [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2) - Kaggle competition with a well defined ML task.
     - [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
     - [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
 
