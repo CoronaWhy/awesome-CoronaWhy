@@ -57,16 +57,13 @@ Here you can find list of datasets that are ready to be used as input
 
 ## Competitions
 
-<!-- ### Subsection -->
+### Past Competitions
 
+   - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks) - Main Kaggle competition that CoronaWhy community is addressing.
 
-    ### Past Competitions
-
-    - [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks) - Main Kaggle competition that CoronaWhy community is addressing.
-
-    - [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2) - Kaggle competition with a well defined ML task.
-    - [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
-    - [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
+   - [COVID19 Global Forecasting (Week 2)](https://www.kaggle.com/c/covid19-global-forecasting-week-2) - Kaggle competition with a well defined ML task.
+   - [COVID19 Global Forecasting (Week 1)](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
+   - [COVID19 Local US-CA Forecasting (Week 1)](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
 
 ## Other
 
