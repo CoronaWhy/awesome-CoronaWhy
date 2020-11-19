@@ -77,7 +77,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0) [![Join the chat at https://gitter.im/CoronaWhy/awesome-CoronaWhy](https://badges.gitter.im/CoronaWhy/awesome-CoronaWhy.svg)](https://gitter.im/CoronaWhy/awesome-CoronaWhy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 To the extent possible under law, Anton has waived all copyright and
 related or neighboring rights to this work.
